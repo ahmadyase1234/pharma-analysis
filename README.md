@@ -1,7 +1,7 @@
 # 💊 Pharma Sales Dashboard – Excel Project
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [Download the Excel File](https://github.com/ahmadyase1234/Cancer-analysis-dashboard-/blob/main/pharma-dashboard.xlsx)**
+**📥 [Download the Excel File](https://github.com/ahmadyase1234/pharma-analysis/blob/main/pharma%20analysis%20report.xlsx)**
 
 ---
 
