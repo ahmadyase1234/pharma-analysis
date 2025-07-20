@@ -8,7 +8,7 @@
 ## 📈 Dashboard Preview
 
 ### 🔹 Pharma Sales Overview (Excel Dashboard)  
-![Pharma Dashboard](https://github.com/ahmadyase1234/Cancer-analysis-dashboard-/blob/main/IMG-20250413-WA0108(1).jpg?raw=true)
+![Pharma Dashboard](https://github.com/ahmadyase1234/pharma-analysis/blob/main/pharama2.jpg)
 
 ---
 
